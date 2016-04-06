@@ -1,0 +1,21 @@
+---
+Post Title Here:
+  - Date: 2016-04-05 23:38:00 -5
+  - Author: Ricky D
+  - Content: > This is the test of the content you would put in a blog post.
+
+Not sure whether this will be a new line or not.
+   But this should be.
+     This should also be.
+But not this? Not sure.
+
+  - Tags:
+    - yaml
+    - anothertag
+  
+
+
+
+
+
+...
