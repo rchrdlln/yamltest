@@ -1,16 +1,21 @@
 ---
 Title: 15-04-05 YAML notes
-Notes: > Just to be cute I'm taking these notes in YAML also, or trying to.
-Task:
+Notes: Just to be cute I'm taking these notes in YAML also, or trying to. This is version 2 tested with the javascript parser.
+Task1:
   - Validate test YAML file online.
   - CompleteYN: !!bool false
-  - Begin: 16-04-05 23:59:00 -5
-  - End:
-Task:
+  - Begin: 16-04-06 00:31:00 -5
+  - End: 16-04-06 00:45:00 -5
+Task2:
   - Look @ javascript yaml parser to see if can implement dynamically
   - CompleteYN: !!bool false
   - Begin: 16-04-05 23:59:00 -5
+  - End: 16-04-06 00:30:00 -5
+  - Notes: | Seems like this works but not sure how to install, etc. http://nodeca.github.io/js-yaml/ See also wiki page = "Simple YAML files (e.g. key value pairs) are readily parsed with regular expressions without resort to a formal YAML parser." And this is a YAML parser for PHP = http://symfony.com/doc/master/components/yaml/introduction.html.
+Task3:
+  - Look @ parser to JSON to see what the point of doing that would be
+  - CompleteYN: !!bool false
+  - Begin: 16-04-05 23:59:00 -5
   - End:
-
 
 ...
