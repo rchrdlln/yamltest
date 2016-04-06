@@ -1,0 +1,16 @@
+---
+Title: 15-04-05 YAML notes
+Notes: > Just to be cute I'm taking these notes in YAML also, or trying to.
+Task:
+  - Validate test YAML file online.
+  - CompleteYN: !!bool false
+  - Begin: 16-04-05 23:59:00 -5
+  - End:
+Task:
+  - Look @ javascript yaml parser to see if can implement dynamically
+  - CompleteYN: !!bool false
+  - Begin: 16-04-05 23:59:00 -5
+  - End:
+
+
+...
